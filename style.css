@@ -1,0 +1,31 @@
+.search-input {
+    height: 15px;
+    width: 250px;
+    padding: 5px;
+}
+
+.search-button {
+    height: 25px;
+    width: 80px;
+}
+
+.search-content {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.content-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.content-img {
+    width: 150px;
+    height: 150px;
+}
+
+.content-error {
+    color: red;
+}
